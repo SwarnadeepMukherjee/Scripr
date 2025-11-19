@@ -5,8 +5,10 @@ header{
     border-right: 2px solid rgb(162, 162, 162);
 }
 header nav img{
+    padding: 30px 18px;
+    padding-bottom: 50px;
     width: 150px;
 }
 header nav ul li{
-    padding: 15px 50px;
+    padding: 18px 50px;
 }
